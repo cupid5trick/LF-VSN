@@ -20,7 +20,7 @@ datasets:
     border_mode: false
     data_path: vimeo90k/sequences 
     txt_path: vimeo90k/sep_trainlist.txt 
-    dataroot_LQ: ~/vimeo90k/vimeo90k_train_LR7frames.lmdb
+    dataroot_LQ: ~/.cache/vimeo90k/vimeo90k_train_LR7frames.lmdb
     cache_keys: Vimeo90K_train_keys.pkl
     num_video: 1
 
